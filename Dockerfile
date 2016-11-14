@@ -1,4 +1,4 @@
-from ubuntu:14.04
+from ubuntu:16.04
 
 run apt-get update -y
 run apt-get install -y git
